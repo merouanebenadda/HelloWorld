@@ -1,2 +1,2 @@
 # HelloWorld
-My first C++ repo
+My first repo
